@@ -1,0 +1,14 @@
+body{
+    background-image: url(./discover3.jpg);
+}
+#form{
+    text-align: center;
+    box-shadow: 15px 15px 15px 15px;
+    margin: auto;
+    padding: auto;
+    width: 80em;
+    height: 20em;
+}
+#frum{
+   padding-top: 100px; 
+}
